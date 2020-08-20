@@ -2,6 +2,10 @@
 
 It makes games.
 
+# Deplyment 
+
+Game accesible here: https://zalgoforge.github.io/bootstrap/
+
 ## Installation
 
 ```
